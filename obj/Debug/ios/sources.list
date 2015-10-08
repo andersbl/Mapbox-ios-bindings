@@ -1,0 +1,6 @@
+obj/Debug/ios/ObjCRuntime/Messaging.g.cs
+obj/Debug/ios/MapBoxIOS/MGLAccountManager.g.cs
+obj/Debug/ios/MapBoxIOS/MGLAnnotation.g.cs
+obj/Debug/ios/MapBoxIOS/MGLAnnotationImage.g.cs
+obj/Debug/ios/MapBoxIOS/MGLMapCamera.g.cs
+obj/Debug/ios/MapBoxIOS/MGLMapView.g.cs
